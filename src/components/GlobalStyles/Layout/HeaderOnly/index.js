@@ -1,6 +1,5 @@
 import { Children } from "react";
-import Header from "./Header";
-
+import Header from "~/components/GlobalStyles/Layout/components/Header";
 function DefaultLayout({children}) {
     return (
         <div>
